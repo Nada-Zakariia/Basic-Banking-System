@@ -1,16 +1,7 @@
-# bank_app
+The app is a Basic Banking System with dummy data uploaded to the database, it allows transferring money between multiple customers.
 
-A new Flutter project.
+The app is built with Flutter & Sqflite.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/Nada-Zakariia/Basic-Banking-System/assets/113999188/e6dfa216-c234-4c7f-829e-495778f51192
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
